@@ -9,5 +9,5 @@ window.GACEB_CONFIG = {
   DONATION_URL: '',
   WEEKLY_PAYMENT_URL: '',
   MONTHLY_PAYMENT_URL: '',
-  SUPPORT_EMAIL: ''
+  SUPPORT_EMAIL: 'gacebsupport@gmail.com'
 };
